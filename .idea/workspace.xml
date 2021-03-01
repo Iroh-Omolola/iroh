@@ -1,7 +1,257 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3770040f-df72-479f-9ba3-0df61c9a315a" name="Default Changelist" comment="" />
+    <list default="true" id="3770040f-df72-479f-9ba3-0df61c9a315a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/component/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-advancedui-boxes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-advancedui-megamenu.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-advancedui-messages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-advancedui-tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-advancedui-timeline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-basicui-badges.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-basicui-buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-basicui-cards.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-basicui-dropdowns.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-basicui-modals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-basicui-popups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-basicui-tabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-extensions-iconpicker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-forms-inputs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-forms-layouts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-forms-steps.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-forms-uploader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-icons-im.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-icons-sl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-layout-colors.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-layout-footers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-layout-headers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-layout-navbar-double-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-layout-navbar-double-light.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-layout-navbar-fade-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-layout-navbar-static-dark.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-layout-navbar-static-light.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-layout-navbar-static-solid.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-layout-parallax.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-layout-video.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-sections-carousel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-sections-clients.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-sections-counters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-sections-pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-sections-team.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/_components-sections-testimonials.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/about-page-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/component/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/agency-about.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/agency-blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/agency-contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/agency-home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/agency-portfolio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/agency-post-nosidebar.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/blog-grid-full-masonry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/blog-grid-full.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/blog-grid-side-masonry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/blog-posts-full-alt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/blog-posts-full.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/blog-posts-grid-full-masonry.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/blog-posts-grid-full.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/blog-posts-grid-side.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/blog-posts-side-alt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/blog-posts-side.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/blog-single-full.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/case-study-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/contact-page-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/contact-page-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/contact-page-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/contact-page-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/component/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/css/fontawesome-all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/css/magnific-popup.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/css/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/css/swiper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-advancedui-boxes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-advancedui-messages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-advancedui-tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-advancedui-timeline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-basicui-accordion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-basicui-badges.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-basicui-buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-basicui-cards.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-basicui-dropdowns.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-basicui-lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-basicui-modals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-basicui-popups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-basicui-tabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-forms-controls.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-forms-inputs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-forms-layouts.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-forms-uploader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-sections-carousel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-sections-clients.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-sections-counters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-sections-features.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-sections-pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-sections-team.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/_components-sections-testimonials.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/css/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/css/bulma.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/css/core.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/favicon.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/accordion.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/badges.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/boxes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/buttons.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/cards.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/carousel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/clients.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/controls.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/counters.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/dropdowns.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/features.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/forms.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/inputs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/lists.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/messages.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/modals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/popups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/tables.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/tabs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/team.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/testimonials.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/timeline.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/components/uploader.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/icons/layout-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/legacy/cut-circle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/legacy/home/drawings/guy-couch.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/legacy/home/drawings/why-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/legacy/home/drawings/why-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/legacy/home/drawings/why-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/legacy/home/feature-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/legacy/home/feature-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/legacy/home/job-app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/graphics/legacy/megamenu-core.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/logos/bulkit-logo-g.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/logos/bulkit-white.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/logos/cssninja.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/logos/custom/bitbreaker.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/logos/custom/covenant.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/logos/custom/grubspot.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/logos/custom/kromo.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/logos/custom/livetalk.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/logos/custom/phasekit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/logos/custom/proactive.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/logos/custom/transfuseio.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/logos/custom/tribe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/logos/logo/bulkit-core.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/img/logos/square-white.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/js/app.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/js/auth.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/js/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/js/functions.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/js/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/assets/js/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/error-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/error-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/error-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/error-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/error-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/error-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/error-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/kit6-landing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/kit6-login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/error/kit6-signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/features.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/component/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit1-features.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit1-landing-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit1-landing-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit1-landing-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit1-landing-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit1-landing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit1-login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit1-pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit1-signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit10-landing-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit10-landing-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit11-landing-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit11-landing-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit11-landing-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit11-landing-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit11-landing-7.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit11-landing-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit11-landing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit12-landing-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit12-landing-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit12-landing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit13-landing-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit13-landing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit14-landing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit2-landing-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit2-landing-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit2-landing-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit2-landing-5.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit2-landing-6.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit2-landing-8.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit2-landing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit2-login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit2-pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit2-signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit3-landing-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit3-landing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit3-login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit3-pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit3-signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit4-help-article.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit4-help.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit4-landing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit4-login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit4-pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit4-signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit5-landing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit5-login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit5-pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit6-features.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit6-landing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit6-signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit7-authentication.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit7-landing-alt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit7-pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit8-jobs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit8-landing-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit8-landing-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit8-landing-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit8-landing-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit8-login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit8-pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit8-signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit9-landing-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit9-landing-4.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/kit9-landing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/landing-signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/landing-v1-signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/landing-v3-pricing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/policy.html" beforeDir="false" afterPath="$PROJECT_DIR$/component/policy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/component/pricing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/profile-1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/profile-2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/profile-3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/startup-contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/startup-home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/startup-landing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/startup-login.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/startup-signup.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/terms.html" beforeDir="false" afterPath="$PROJECT_DIR$/component/terms.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,17 +263,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/component/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="106">
-              <caret line="204" column="39" selection-start-line="204" selection-start-column="39" selection-end-line="204" selection-end-column="39" />
+              <caret line="146" column="30" selection-start-line="146" selection-start-column="30" selection-end-line="146" selection-end-column="30" />
               <folding>
                 <element signature="n#nav#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#nav#1;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#2;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/component/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -32,11 +291,11 @@
         <entry file="file://$PROJECT_DIR$/component/policy.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="348">
-              <caret line="144" column="43" lean-forward="true" selection-start-line="144" selection-start-column="43" selection-end-line="144" selection-end-column="43" />
+              <caret line="372" selection-start-line="372" selection-end-line="372" />
               <folding>
-                <element signature="n#nav#0;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#nav#1;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -45,12 +304,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/component/pricing.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
+            <state relative-caret-position="340">
+              <caret line="397" lean-forward="true" selection-start-line="397" selection-end-line="397" />
               <folding>
-                <element signature="n#nav#0;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#nav#1;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -59,16 +318,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/component/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="229" column="30" selection-start-line="229" selection-start-column="30" selection-end-line="229" selection-end-column="30" />
+            <state relative-caret-position="348">
+              <caret line="419" selection-start-line="419" selection-end-line="419" />
               <folding>
-                <element signature="n#nav#0;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#nav#1;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#script#1;n#div#4;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -77,26 +332,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/component/terms.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="139" column="4" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
+            <state relative-caret-position="348">
+              <caret line="479" selection-start-line="479" selection-end-line="479" />
               <folding>
-                <element signature="n#nav#0;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#nav#1;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/component/contact.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="548">
-              <caret line="140" lean-forward="true" selection-start-line="140" selection-end-line="140" />
+            <state relative-caret-position="320">
+              <caret line="346" lean-forward="true" selection-start-line="346" selection-end-line="346" />
               <folding>
-                <element signature="n#nav#0;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#nav#1;n#div#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#script#2;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -129,17 +384,26 @@
       <find>sign up</find>
       <find>Sign</find>
       <find>mer</find>
+      <find>column is-5 is-relative is-centered-portrait</find>
+      <find>23</find>
+      <find>Log</find>
+      <find>Logi</find>
+      <find>form</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/component/index.php" />
+        <option value="$PROJECT_DIR$/component/index.html" />
         <option value="$PROJECT_DIR$/component/policy.html" />
         <option value="$PROJECT_DIR$/component/pricing.html" />
+        <option value="$PROJECT_DIR$/component/about.html" />
         <option value="$PROJECT_DIR$/component/terms.html" />
         <option value="$PROJECT_DIR$/component/contact.html" />
-        <option value="$PROJECT_DIR$/component/about.html" />
-        <option value="$PROJECT_DIR$/component/index.html" />
       </list>
     </option>
   </component>
@@ -154,6 +418,7 @@
     <option name="width" value="1280" />
     <option name="height" value="725" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -180,6 +445,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -216,17 +482,20 @@
       <workItem from="1613854053806" duration="1302000" />
       <workItem from="1613947089546" duration="2206000" />
       <workItem from="1614015491908" duration="1477000" />
-      <workItem from="1614073942139" duration="13701000" />
+      <workItem from="1614073942139" duration="15085000" />
+      <workItem from="1614237624471" duration="3920000" />
+      <workItem from="1614539396015" duration="2229000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22441000" />
+    <option name="totallyTimeSpent" value="29974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="28" width="1280" height="772" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -238,7 +507,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.32928678" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.30349013" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -247,6 +516,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -270,38 +542,29 @@
     <entry file="file://$PROJECT_DIR$/component/jss/main.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/pricing.html">
+    <entry file="file://$PROJECT_DIR$/../../Timzoid-Limited/eazyaccess/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="139" lean-forward="true" selection-start-line="139" selection-end-line="139" />
-          <folding>
-            <element signature="n#nav#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#nav#1;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="23">
+          <caret line="1" lean-forward="true" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/terms.html">
+    <entry file="file://$PROJECT_DIR$/component/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="139" column="4" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
-          <folding>
-            <element signature="n#nav#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#nav#1;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="161">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/contact.html">
+    <entry file="file://$PROJECT_DIR$/component/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="548">
-          <caret line="140" lean-forward="true" selection-start-line="140" selection-end-line="140" />
+        <state relative-caret-position="106">
+          <caret line="146" column="30" selection-start-line="146" selection-start-column="30" selection-end-line="146" selection-end-column="30" />
           <folding>
             <element signature="n#nav#0;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#nav#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
@@ -309,40 +572,59 @@
     <entry file="file://$PROJECT_DIR$/component/policy.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
-          <caret line="144" column="43" lean-forward="true" selection-start-line="144" selection-start-column="43" selection-end-line="144" selection-end-column="43" />
+          <caret line="372" selection-start-line="372" selection-end-line="372" />
           <folding>
-            <element signature="n#nav#0;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#nav#1;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/pricing.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="397" lean-forward="true" selection-start-line="397" selection-end-line="397" />
+          <folding>
+            <element signature="n#nav#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/component/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="229" column="30" selection-start-line="229" selection-start-column="30" selection-end-line="229" selection-end-column="30" />
+        <state relative-caret-position="348">
+          <caret line="419" selection-start-line="419" selection-end-line="419" />
           <folding>
-            <element signature="n#nav#0;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#nav#1;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#0;n#div#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#6;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#1;n#div#4;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/component/index.html">
+    <entry file="file://$PROJECT_DIR$/component/terms.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="204" column="39" selection-start-line="204" selection-start-column="39" selection-end-line="204" selection-end-column="39" />
+        <state relative-caret-position="348">
+          <caret line="479" selection-start-line="479" selection-end-line="479" />
           <folding>
-            <element signature="n#nav#0;n#div#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#nav#1;n#div#2;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#div#2;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/component/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="346" lean-forward="true" selection-start-line="346" selection-end-line="346" />
+          <folding>
+            <element signature="n#nav#1;n#div#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#script#2;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
